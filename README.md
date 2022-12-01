@@ -1,7 +1,11 @@
+# Simple Search Engine in Python
+
+## To run the project
 Running the command in the search engine directory:
-python search_engine.py [job] [doc_dir]
+"python search_engine.py [job] [doc_dir]"
+
 [job]: b for building index, s for searching
-[doc_dir]: path to documents (only for indexing) (is "DEV" by default)
+[doc_dir]: path to corpus (only for indexing) (is "DEV" by default)
 
 to search the program will ask for input, just type in the query then enter
 enter empty string to exit
